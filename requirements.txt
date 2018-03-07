@@ -6,3 +6,4 @@ ccff
 Esta es una nueva linea
 Vamos a resolver conflictos
 Cuando dos o mas personas trabajan en el mismo archivo
+Mirar el status en git es importante
